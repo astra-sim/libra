@@ -9,7 +9,7 @@ end-to-end execution performance or network/system performance-per-cost. After t
 LIBRA yields a workload-aware BW configuration meeting all given design constraints.
 
 Below figure summarizes the high-level overview of the LIBRA framework:
-![LIBRA Abstraction](https://github.com/astra-sim/libra/blob/develop/docs/images/libra_overview.png)
+![LIBRA Abstraction](https://github.com/astra-sim/libra/blob/main/docs/images/libra_overview.png)
 
 Please find more information about LIBRA in [this paper](https://arxiv.org/abs/2109.11762).
 
