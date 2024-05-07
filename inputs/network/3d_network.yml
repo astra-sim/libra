@@ -1,0 +1,6 @@
+### This source code is licensed under the MIT license found in the
+### LICENSE file in the root directory of this source tree.
+
+Topology: [ Ring, FullyConnected, Switch ]  # 3D
+NpusCount: [ 16, 8, 32 ]  # 16 * 8 * 32 = 4,096 NPUs
+CostDimension: [ InterPackage, InterNode, InterPod ]

@@ -1,0 +1,8 @@
+### This source code is licensed under the MIT license found in the
+### LICENSE file in the root directory of this source tree.
+
+# GPT-3: TP-16, DP-256
+
+Forward: [ -1, -1, -1, -1 ]
+InputGrad: [ -1, -1, -1, -1 ]
+WeightGrad: [ 4, 8, 4, 32 ]

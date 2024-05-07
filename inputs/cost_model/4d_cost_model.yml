@@ -1,0 +1,21 @@
+### This source code is licensed under the MIT license found in the
+### LICENSE file in the root directory of this source tree.
+
+# All network component costs
+# are in $ per GB/s.
+
+InterChiplet:
+  Link: 2.00001
+
+InterPackage:
+  Link: 4.00002
+  Switch: 13.00002
+
+InterNode:
+  Link: 4.00003
+  Switch: 13.00003
+
+InterPod:
+  Link: 7.80004
+  Switch: 18.00004
+  Nic: 31.60004
